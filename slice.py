@@ -89,4 +89,4 @@ fitted_line = fitter1(model_init,xx,rrow130, maxiter=1000)
 print(fitted_line)
 plt.plot(xx, fitted_line(xx))
 
-#BE WARNED: THIS CODE SUCKS
+#BE WARNED: THIS CODE HAS SOME ISSUES
